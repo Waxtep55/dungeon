@@ -1,1 +1,1 @@
-# dungeon
+pip install pygame
